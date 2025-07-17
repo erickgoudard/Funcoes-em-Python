@@ -7,7 +7,7 @@ media = sum(notas) / len(notas)
 print(f"\nMédia: {media:.2f}")
 if media >= 7:
     print("Aluno aprovado.")
-#Função maior_menor
+#Função maior_menor()
 numeros = [10, -3, 25, 7]
 maior = max(numeros)
 menor = min(numeros)
